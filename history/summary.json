@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 104,
+    "timeDay": 82,
     "timeWeek": 104,
     "timeMonth": 104,
     "timeYear": 104,
@@ -22,35 +22,39 @@
     "url": "https://cdip.ucsd.edu/robots.txt?upptime",
     "icon": "https://icons.duckduckgo.com/ip3/cdip.ucsd.edu.ico",
     "slug": "cdip-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 336,
-    "timeWeek": 336,
-    "timeMonth": 336,
-    "timeYear": 336,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 346,
+    "timeDay": 372,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
+    "dailyMinutesDown": {
+      "2025-04-04": 0
+    }
   },
   {
     "name": "CDIP GUDB",
     "url": "https://meta.cdipdata.org/cdipadmin/login/?next=/cdipadmin/&upptime",
     "icon": "https://icons.duckduckgo.com/ip3/meta.cdipdata.org.ico",
     "slug": "cdip-gudb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 459,
-    "timeDay": 459,
-    "timeWeek": 459,
-    "timeMonth": 459,
-    "timeYear": 459,
-    "dailyMinutesDown": {}
+    "time": 485,
+    "timeDay": 517,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
+    "dailyMinutesDown": {
+      "2025-04-04": 0
+    }
   }
 ]
