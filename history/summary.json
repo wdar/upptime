@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdip.ucsd.edu.ico",
     "slug": "cdip-web",
     "status": "up",
-    "uptime": "97.02%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "97.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 336,
     "timeDay": 336,
     "timeWeek": 336,
     "timeMonth": 336,
     "timeYear": 336,
-    "dailyMinutesDown": {
-      "2025-04-03": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDIP GUDB",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/meta.cdipdata.org.ico",
     "slug": "cdip-gudb",
     "status": "up",
-    "uptime": "97.02%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "97.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 459,
     "timeDay": 459,
     "timeWeek": 459,
     "timeMonth": 459,
     "timeYear": 459,
-    "dailyMinutesDown": {
-      "2025-04-03": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
