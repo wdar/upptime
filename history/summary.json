@@ -22,35 +22,39 @@
     "url": "https://cdip.ucsd.edu/robots.txt?upptime",
     "icon": "https://icons.duckduckgo.com/ip3/cdip.ucsd.edu.ico",
     "slug": "cdip-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 437,
-    "timeWeek": 379,
-    "timeMonth": 379,
-    "timeYear": 379,
-    "dailyMinutesDown": {}
+    "time": 399,
+    "timeDay": 463,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
+    "dailyMinutesDown": {
+      "2025-04-05": 0
+    }
   },
   {
     "name": "CDIP GUDB",
     "url": "https://meta.cdipdata.org/cdipadmin/login/?next=/cdipadmin/&upptime",
     "icon": "https://icons.duckduckgo.com/ip3/meta.cdipdata.org.ico",
     "slug": "cdip-gudb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 697,
-    "timeWeek": 561,
-    "timeMonth": 561,
-    "timeYear": 561,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 650,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2025-04-05": 0
+    }
   }
 ]
