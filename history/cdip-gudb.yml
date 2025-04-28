@@ -1,7 +1,7 @@
 url: https://meta.cdipdata.org/cdipadmin/login/?next=/cdipadmin/&upptime
-status: down
-code: 403
-responseTime: 505
-lastUpdated: 2025-04-28T20:30:11.153Z
+status: up
+code: 200
+responseTime: 511
+lastUpdated: 2025-04-28T20:39:09.756Z
 startTime: 2025-04-03T18:18:33.753Z
 generator: Upptime <https://github.com/upptime/upptime>
